@@ -11,7 +11,7 @@ This is a practice for Multithread
 
 ## :closed_book: Project Directory Structure
 ```bash
-Flask_API_Practice/
+Multithread Practice/
 ├── app/             # Folder for source code 
 │ ├── main.py        # Contains application
 ├── imgs/            # The demo.gif 
