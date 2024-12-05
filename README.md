@@ -1,9 +1,8 @@
 # Multithread_Practice
-This is a practice for Flask API
+This is a practice for Multithread
 
 ## :hammer_and_pick: Technologies Used
 - **Language**: Python
-- **Testing Framework**: Pytest
 - **Containerization**: Docker
 
 ## :gear: Prerequisites
@@ -13,10 +12,9 @@ This is a practice for Flask API
 ## :closed_book: Project Directory Structure
 ```bash
 Flask_API_Practice/
-├── app/             # Application source code 
-│ ├── main.py        # Contains API endpoints 
+├── app/             # Folder for source code 
+│ ├── main.py        # Contains application
 ├── imgs/            # The demo.gif 
-├── requirements.txt # Python dependencies 
 ├── Dockerfile       # Docker configuration file 
 └── README.md        # Documentation for the project
 ```
