@@ -1,4 +1,4 @@
-# Multithread_Practice
+# Multithread Practice
 This is a practice for Multithread
 
 ## :hammer_and_pick: Technologies Used
